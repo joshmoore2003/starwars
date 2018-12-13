@@ -1,0 +1,23 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "Helps you find the characters you are looking for",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+ },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshmoore2003/starwars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshmoore2003/starwars/issues"
+  },
+  "homepage": "https://github.com/joshmoore2003/starwars#readme"
+}
